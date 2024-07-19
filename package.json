@@ -1,0 +1,20 @@
+{
+  "name": "newspaper",
+  "version": "1.0.0",
+  "description": "image To Pdf",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "images-pdf": "^1.0.3",
+    "images-to-pdf": "^1.0.3",
+    "nodemon": "^2.0.7",
+    "url-exist-sync": "^1.0.2"
+  }
+}
